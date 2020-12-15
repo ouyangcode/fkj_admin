@@ -1,0 +1,184 @@
+{
+  "id": "1959143",
+  "name": "访客机后台",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "720984",
+      "name": "首页",
+      "font_class": "xiazai44",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "1127414",
+      "name": "认证",
+      "font_class": "auth",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "1137317",
+      "name": "用户管理",
+      "font_class": "yonghuguanli",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "1149092",
+      "name": "管理2",
+      "font_class": "guanli2",
+      "unicode": "e6a9",
+      "unicode_decimal": 59049
+    },
+    {
+      "icon_id": "1330723",
+      "name": "二维码",
+      "font_class": "erweima",
+      "unicode": "e745",
+      "unicode_decimal": 59205
+    },
+    {
+      "icon_id": "1350136",
+      "name": "用户管理",
+      "font_class": "Management",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "2045816",
+      "name": "服务器",
+      "font_class": "fuwuqi",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "2053200",
+      "name": "系统参数设置",
+      "font_class": "xitongcanshushezhi",
+      "unicode": "e6f0",
+      "unicode_decimal": 59120
+    },
+    {
+      "icon_id": "2127743",
+      "name": "机构团体",
+      "font_class": "jigoutuanti",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "2959121",
+      "name": "字典管理",
+      "font_class": "zidianguanli",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "3283212",
+      "name": "用户审批",
+      "font_class": "user-approval",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "3978487",
+      "name": "系统日志",
+      "font_class": "xitongrizhi",
+      "unicode": "e69f",
+      "unicode_decimal": 59039
+    },
+    {
+      "icon_id": "4721226",
+      "name": "单位",
+      "font_class": "unit",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "4846336",
+      "name": "微信公众号管理",
+      "font_class": "weixingongzhonghaoguanli",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "5124629",
+      "name": "人员组织",
+      "font_class": "huaban",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "5191450",
+      "name": "角色权限管理",
+      "font_class": "jiaosequanxianguanli",
+      "unicode": "e678",
+      "unicode_decimal": 59000
+    },
+    {
+      "icon_id": "5327655",
+      "name": "历史记录",
+      "font_class": "lishijilu",
+      "unicode": "e743",
+      "unicode_decimal": 59203
+    },
+    {
+      "icon_id": "6241663",
+      "name": "基础信息",
+      "font_class": "jichuxinxi",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "7898688",
+      "name": "管理员",
+      "font_class": "guanliyuan",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "8662326",
+      "name": "系统管理",
+      "font_class": "xitongguanli",
+      "unicode": "e66b",
+      "unicode_decimal": 58987
+    },
+    {
+      "icon_id": "9559076",
+      "name": "白名单",
+      "font_class": "ziyuan",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "9559084",
+      "name": "黑名单",
+      "font_class": "ziyuan1",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "10033407",
+      "name": "机器人_#333333_128_3505115",
+      "font_class": "jiqiren___",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "11409201",
+      "name": "收发货人信息管理",
+      "font_class": "shoufahuorenxinxiguanli",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "15792691",
+      "name": "今日采购",
+      "font_class": "jinricaigou",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    }
+  ]
+}
